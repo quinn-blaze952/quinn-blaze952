@@ -1,16 +1,16 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**quinn-blaze952/quinn-blaze952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **quinn-blaze952**, a backend engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`Kotlin` `Docker` `Neovim` `Deno` `Clojure`
+
+---
+
+_Vim user._
